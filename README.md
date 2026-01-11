@@ -6,3 +6,4 @@ Plugins included
 - catppucin nvim
 - indent-blankline.nvim
 - nvim-treesitter
+- lualine
