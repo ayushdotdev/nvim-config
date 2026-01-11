@@ -5,3 +5,4 @@ Plugins included
 - telescope.nvim
 - catppucin nvim
 - indent-blankline.nvim
+- nvim-treesitter

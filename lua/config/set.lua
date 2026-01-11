@@ -11,3 +11,5 @@ vim.opt.breakindent = true
 
 vim.opt.cursorline = true
 vim.opt.fillchars = { eob = ' '}
+
+vim.opt.clipboard = "unnamedplus"
