@@ -1,2 +1,1 @@
-vim.lsp.enable('gopls')
-vim.lsp.enable('emmet')
+vim.lsp.enable('lua_ls')

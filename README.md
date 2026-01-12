@@ -7,3 +7,5 @@ Plugins included
 - indent-blankline.nvim
 - nvim-treesitter
 - lualine
+- mason
+- nvim-lspconfig
