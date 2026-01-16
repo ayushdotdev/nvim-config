@@ -13,6 +13,7 @@ return {                                                                        
         }
       end)
       vim.keymap.set("n", "<space>fg", require('telescope.builtin').live_grep)
+      vim.keymap.set("n", "<space>bf", require('telescope.builtin').buffers)
     end,
   }
 
